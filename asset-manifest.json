@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrimeApp/static/css/main.d6d3ae34.css",
+    "main.js": "/PrimeApp/static/js/main.c6c8a727.js",
+    "index.html": "/PrimeApp/index.html",
+    "main.d6d3ae34.css.map": "/PrimeApp/static/css/main.d6d3ae34.css.map",
+    "main.c6c8a727.js.map": "/PrimeApp/static/js/main.c6c8a727.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6d3ae34.css",
+    "static/js/main.c6c8a727.js"
+  ]
+}
